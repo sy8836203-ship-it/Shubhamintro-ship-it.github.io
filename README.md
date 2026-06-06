@@ -15,8 +15,8 @@
 
 <p>👋 My Name Is Shubham Yadav
 
-📍 I Live In Chhatarpur Khushal, Azamgarh  
-🎂 I Am 17 Years Old  
+<p>📍 I Live In Chhatarpur Khushal, Azamgarh</p>  
+<p/>🎂 I Am 17 Years Old<p/>  
 📚 I Am A Student  
 🎬 I Work As A Phonk Editor  
 🎧 I Love Listening To 90s Songs   
