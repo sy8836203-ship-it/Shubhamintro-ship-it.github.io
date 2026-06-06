@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 
 <p>Mera naam Shubham hai.</p>
-<p>Main Python aur Web Development seekh raha hoon.</p>
+<p>Main chota sa Web Development hoon.</p>
 
 <h3>my introduction</h3>
 
