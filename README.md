@@ -18,11 +18,14 @@
 <p>📍 I Live In Chhatarpur Khushal, Azamgarh</p>  
 <p/>🎂 I Am 17 Years Old<p/>  
 <p>📚 I Am A Student</p>  
-<p>🎬 I Work As A Phonk Editor</p>  
-<p>🎧 I Love Listening To 90s Songs<p/>   
-<p>💻 I Enjoy Learning New Editing Skills<p/>  
+<p>I am preparing for NEET<p/>
+<p>🎬 I Work As A small Phonk Editor</p>  
+<p>🎧 I Love Listening To Songs<p/>   
+<p>💻 I Enjoy Learning New Editing Skills studing<p/>  
 <p>🤝 I Believe In Respect And Humility<p/>  
-<p>🚀 I Am Working Hard For My mind<p>  
+<p>🚀 I Am Working diffrent skill I think this is wrong<p>  
+<p>earliy people think this is wrong   They think that studies are everything.<p/>
+    <p>BUT WHY<p/>
 </p>✨ This Is Just The Beginning Of My Journey</p>   
 
 <h4>Extra knowladge</h4>
