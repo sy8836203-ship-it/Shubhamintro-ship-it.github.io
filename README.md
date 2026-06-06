@@ -27,6 +27,6 @@
 
 <h4>Extra knowladge</h4>
 
-</p>Ravan itna vidvan tha par kbhi NNET JEE ya UPSE dene ke galti nahi ki</p> 
+</p>Ravan itna vidvan tha par kbhi NEET JEE ya UPSE dene ke galti nahi ki</p> 
 </body>
 </html>
